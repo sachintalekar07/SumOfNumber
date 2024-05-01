@@ -1,0 +1,24 @@
+{
+  "name": "fastest-sum-of-numbers",
+  "version": "1.0.0",
+  "description": "A fastest module to calculate the sum of numbers in an array.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/sum-of-numbers.git"
+  },
+  "keywords": [
+    "sum",
+    "numbers",
+    "array",
+    "fastest",
+    "fast"
+  ],
+  "author": "Your Name <your-email@example.com>",
+  "license": "ISC",
+  "dependencies": {}
+}
