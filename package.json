@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/sum-of-numbers.git"
+    "url": "git+https://github.com/sachintalekar07/SumOfNumber.git"
   },
   "keywords": [
     "sum",
@@ -18,7 +18,7 @@
     "fastest",
     "fast"
   ],
-  "author": "Your Name <your-email@example.com>",
+  "author": "Sachin Talekar",
   "license": "ISC",
   "dependencies": {}
 }
